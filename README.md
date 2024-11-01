@@ -1,0 +1,8 @@
+- 👀 I’m interested in web development, backend engineering, and exploring Java frameworks.
+- 🌱 I’m currently diving deeper into **Java Spring Boot** and enhancing my skills as a freelance developer.
+- 💼 Working at **Indev Consultancy Pvt. Ltd.** as a Software Engineer.
+- 💞️ I’m looking to collaborate on innovative Java-based projects, especially those involving **RESTful APIs** and **Spring Boot applications**.
+- 📫 Reach me at **dattaprabhu2001@gmail.com** or **prabhudatta.sahu@indevconsultancy.in**.
+- 💼 LinkedIn: [Prabhudatta Sahu](https://linkedin.com/in/prabhudatttaa)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I've combined my mechanical engineering background with programming to solve practical problems in software development!
